@@ -14,8 +14,4 @@ This project is a web application built with Next.js, TypeScript, and Tailwind C
 
 ## Tech Stack
 
-- [Next.js](https://nextjs.org/): A React framework for building JavaScript applications.
-- [TypeScript](https://www.typescriptlang.org/): A statically typed superset of JavaScript that adds types and other features.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom user interfaces.
-- [Clerk](https://clerk.dev/): User authentication and management service.
-- [Cloudinary](https://cloudinary.com/): A cloud-based service for managing and delivering digital assets.
+Next.js + Typescript + Tailwind CSS + Clerk + Cloudinary + Stripe + shadcn/ui + MonogoDB
