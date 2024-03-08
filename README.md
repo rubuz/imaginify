@@ -12,6 +12,8 @@ This project is a web application built with Next.js, TypeScript, and Tailwind C
 - Image Management: Users can add, update, and delete images. They can also view images by other users.
 - Credit System: Users can earn and use credits for certain actions within the application.
 
+## Live demo
+[Link to Imaginify](https://imaginify-beta-six.vercel.app/)
 ## Tech Stack
 
 Next.js + Typescript + Tailwind CSS + Clerk + Cloudinary + Stripe + shadcn/ui + MonogoDB
